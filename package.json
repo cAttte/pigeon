@@ -4,6 +4,7 @@
     "description": "send data :)",
     "main": "dist/index.js",
     "scripts": {
+        "postinstall": "tsc",
         "build": "tsc"
     },
     "repository": "cAttte/pigeon.git",
