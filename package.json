@@ -2,7 +2,7 @@
     "name": "pigeon",
     "version": "0.0.0",
     "description": "send data :)",
-    "main": "dist/index.js",
+    "bin": "dist/index.js",
     "scripts": {
         "preinstall": "tsc",
         "build": "tsc"
