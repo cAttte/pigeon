@@ -1,0 +1,12 @@
+{
+    "name": "pigeon",
+    "version": "0.0.0",
+    "description": "send data :)",
+    "main": "dist/index.js",
+    "scripts": {},
+    "repository": "cAttte/pigeon.git",
+    "author": "catte_",
+    "license": "MIT",
+    "bugs": "https://github.com/cAttte/pigeon/issues",
+    "homepage": "https://github.com/cAttte/pigeon#readme"
+}
