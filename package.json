@@ -3,7 +3,9 @@
     "version": "0.0.0",
     "description": "send data :)",
     "main": "dist/index.js",
-    "scripts": {},
+    "scripts": {
+        "build": "tsc"
+    },
     "repository": "cAttte/pigeon.git",
     "author": "catte_",
     "license": "MIT",
